@@ -1,0 +1,2 @@
+ALTER TABLE CusTb
+ADD UNIQUE (Email);

@@ -1,0 +1,2 @@
+ALTER TABLE Veterin
+ADD UNIQUE (Email);

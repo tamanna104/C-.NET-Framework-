@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Pet Addaptation\bin\Debug\Pet Addaptation.exe.config
+C:\Users\HP\source\repos\Pet Addaptation\bin\Debug\Pet Addaptation.exe
+C:\Users\HP\source\repos\Pet Addaptation\bin\Debug\Pet Addaptation.pdb
+C:\Users\HP\source\repos\Pet Addaptation\obj\Debug\Pet Addaptation.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Pet Addaptation\obj\Debug\Pet_Addaptation.Properties.Resources.resources
+C:\Users\HP\source\repos\Pet Addaptation\obj\Debug\Pet Addaptation.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Pet Addaptation\obj\Debug\Pet Addaptation.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Pet Addaptation\obj\Debug\Pet Addaptation.exe
+C:\Users\HP\source\repos\Pet Addaptation\obj\Debug\Pet Addaptation.pdb
+C:\Users\HP\source\repos\Pet Addaptation\obj\Debug\Pet_Addaptation.Login.resources
+C:\Users\HP\source\repos\Pet Addaptation\obj\Debug\Pet_Addaptation.Home.resources
+C:\Users\HP\source\repos\Pet Addaptation\obj\Debug\Pet_Addaptation.SignUp.resources
+C:\Users\HP\source\repos\Pet Addaptation\obj\Debug\Pet_Addaptation.Loading.resources
